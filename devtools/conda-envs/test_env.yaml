@@ -7,6 +7,14 @@ dependencies:
   - python
   - pip
 
+    #package dependencies
+  - numpy
+  - math    
+  - copy
+  - networkx
+  - matplotlib
+  - random
+
     # Testing
   - pytest
   - pytest-cov
