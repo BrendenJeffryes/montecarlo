@@ -8,12 +8,9 @@ dependencies:
   - pip
 
     #package dependencies
-  - numpy
-  - math    
-  - copy
+  - numpy 
   - networkx
   - matplotlib
-  - random
 
     # Testing
   - pytest
